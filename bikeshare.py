@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #bikeshare project
+||||||| parent of 49b8096 (add comment in bikeshare file on refactoring branch)
+=======
+#bikeshare project from refactoring branch
+>>>>>>> 49b8096 (add comment in bikeshare file on refactoring branch)
 import calendar
 import time
 import pandas as pd
