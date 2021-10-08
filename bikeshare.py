@@ -1,4 +1,9 @@
+<<<<<<< .merge_file_a19264
 #bikeshare project
+||||||| .merge_file_a18944
+=======
+#bikeshare project from refactoring branch
+>>>>>>> .merge_file_a16980
 import calendar
 import time
 import pandas as pd
