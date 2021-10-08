@@ -1,33 +1,13 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+###post your project on github
 
 ### Date created
-8 2021,oct,02:49 AM
+08 2021, OCT, ‎‏12:33:26 AM
 
-<<<<<<< HEAD
-||||||| parent of 731235c (docs: Modify README file in master branch)
-### Project Title
-post you work on github
-=======
 ### Project Title
 bikeshare project
->>>>>>> 731235c (docs: Modify README file in master branch)
 
-### Project Title
-bikeshare project 
 ### Description
-<<<<<<< HEAD
-<<<<<<< HEAD
-post my udacity python project (bikeshare) on github
-||||||| parent of b62f496 (modify README file in refactoring branch)
-Describe what your project is about and what it does
-=======
-post my first project on github
->>>>>>> b62f496 (modify README file in refactoring branch)
-||||||| parent of 731235c (docs: Modify README file in master branch)
-post my udacity python project (bikeshare) on github
-=======
 my bikeshare project explore information about bicycle-sharing systems have been growing in number and popularity in cities(chicago ,new york ,washington) ,analysis this information and show statistics results on it .
->>>>>>> 731235c (docs: Modify README file in master branch)
 
 ### Files used
 -Python 3, NumPy, pandas  
